@@ -8,7 +8,7 @@ def find_highest_bidder(biddig_dictionary):
 
     for bidder in bidding_dictionary:
         bid_amount = bidding_dictionary[bidder]
-        if bid_amp=ount > highed=st_bid:
+        if bid_amp=ount > highedst_bid:
             highest_bid = bid_amount
             winner = bidder
 
